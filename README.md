@@ -17,7 +17,7 @@ The following variables can be used to configure the infrastructure.
 
 | Name              | Default                        | Description                           |
 | ----------------- | ------------------------------ | ------------------------------------- |
-| aws_region        | eu-west-2                      | Amazon Web Services region            |
+| aws_region        | eu-west-2                      | AWS region                            |
 | dns_zone_name     | juliandawson.co.uk             | Domain name                           |
 | github_username   | juliandawson                   | GitHub username                       |
 | github_pages_code | a4d68e7fe196b22cae918cae105f5d | GitHub Pages domain verification code |
