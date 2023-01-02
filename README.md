@@ -8,16 +8,16 @@ The following variables can be used to configure the infrastructure.
 
 ##### AWS
 
-| Name                  | Default | Description |
-| --------------------- | ------- | ----------- |
-| AWS_ACCESS_KEY_ID     |         |
-| AWS_SECRET_ACCESS_KEY |         |
+| Name                  | Default | Description                                                     |
+| --------------------- | ------- | --------------------------------------------------------------- |
+| AWS_ACCESS_KEY_ID     |         | Specifies an AWS access key associated with an IAM user or role |
+| AWS_SECRET_ACCESS_KEY |         | Specifies the secret key associated with the access key         |
 
 ### Variables
 
-| Name              | Default | Description |
-| ----------------- | ------- | ----------- |
-| aws_region        |         |
-| dns_zone_name     |         |
-| github_username   |         |
-| github_pages_code |         |
+| Name              | Default                        | Description                           |
+| ----------------- | ------------------------------ | ------------------------------------- |
+| aws_region        | eu-west-2                      | Amazon Web Services region            |
+| dns_zone_name     | juliandawson.co.uk             | Domain name                           |
+| github_username   | juliandawson                   | GitHub username                       |
+| github_pages_code | a4d68e7fe196b22cae918cae105f5d | GitHub Pages domain verification code |
