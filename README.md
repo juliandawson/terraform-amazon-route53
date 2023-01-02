@@ -8,10 +8,10 @@ The following variables can be used to configure the infrastructure.
 
 ##### AWS
 
-| Name                  | Default | Description                                                     |
-| --------------------- | ------- | --------------------------------------------------------------- |
-| AWS_ACCESS_KEY_ID     |         | Specifies an AWS access key associated with an IAM user or role |
-| AWS_SECRET_ACCESS_KEY |         | Specifies the secret key associated with the access key         |
+| Name                  | Default | Description                                        |
+| --------------------- | ------- | -------------------------------------------------- |
+| AWS_ACCESS_KEY_ID     |         | AWS access key associated with an IAM user or role |
+| AWS_SECRET_ACCESS_KEY |         | Secret key associated with the access key          |
 
 ### Variables
 
